@@ -19,3 +19,6 @@ aws:
   s3:
     access: { key nay bi mat ko duoc lo }
     secret: { cung bi mat }
+
+
+clone repo về thì thêm file application.yaml (hoặc .yml) vào src/main/resources/ rồi theo cấu hình như trên.
